@@ -1,0 +1,8 @@
+What I learned about velocity is that it is only measured by counting the amount of story points that
+are fully completed during a sprint iteration. Velocity helps teams then understand the pace that are doing 
+for the next sprint. This velocity can also change as its not always the case that a team completes the same amount
+of story points in a single iteration.
+
+As for burndown charts, they help create a visual of a team's progress during a timeframe. This also helps to quickly
+identify if a team is on pace by having an ideal burn rate or if they are behind and and need to calculate an new burn rate for 
+a certain deadline. Even then, it helps a team understand where they are and the steps that they can take forward that best fits their situation.
